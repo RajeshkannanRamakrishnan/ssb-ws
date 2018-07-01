@@ -7,7 +7,7 @@ var pull = require('pull-stream')
 var JSONApi = require('./json-api')
 
 var cap =
-  new Buffer('1KHLiKZvAvjbY1ziZEHMXawbCEIM6qwjCDm3VYRan/s=', 'base64')
+  new Buffer('P6EGPtCNW7irtdeIk+vRVzVbWOlctUKJuce1IZkO2N4=', 'base64')
 
 function toSodiumKeys(keys) {
   return {
